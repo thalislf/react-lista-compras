@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/react-lista-compras/static/css/main.2a51dc1c.chunk.css"
   },
   {
-    "revision": "02464d602168c31ab317729b56d5c124",
+    "revision": "d3986aa7722fc716e054199ce3afdefd",
     "url": "/react-lista-compras/index.html"
   }
 ];
