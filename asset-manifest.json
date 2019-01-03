@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-lista-compras/static/css/main.987fc01a.chunk.css",
-  "main.js": "/react-lista-compras/static/js/main.9105b1f9.chunk.js",
-  "main.js.map": "/react-lista-compras/static/js/main.9105b1f9.chunk.js.map",
-  "static/js/1.e9a05e64.chunk.js": "/react-lista-compras/static/js/1.e9a05e64.chunk.js",
-  "static/js/1.e9a05e64.chunk.js.map": "/react-lista-compras/static/js/1.e9a05e64.chunk.js.map",
+  "main.css": "/react-lista-compras/static/css/main.2a51dc1c.chunk.css",
+  "main.js": "/react-lista-compras/static/js/main.b818437e.chunk.js",
+  "main.js.map": "/react-lista-compras/static/js/main.b818437e.chunk.js.map",
+  "static/js/1.e342477e.chunk.js": "/react-lista-compras/static/js/1.e342477e.chunk.js",
+  "static/js/1.e342477e.chunk.js.map": "/react-lista-compras/static/js/1.e342477e.chunk.js.map",
   "runtime~main.js": "/react-lista-compras/static/js/runtime~main.a32ef540.js",
   "runtime~main.js.map": "/react-lista-compras/static/js/runtime~main.a32ef540.js.map",
-  "static/css/main.987fc01a.chunk.css.map": "/react-lista-compras/static/css/main.987fc01a.chunk.css.map",
+  "static/css/main.2a51dc1c.chunk.css.map": "/react-lista-compras/static/css/main.2a51dc1c.chunk.css.map",
   "index.html": "/react-lista-compras/index.html",
-  "precache-manifest.606566524f8b86accf83d3cb2ee7b946.js": "/react-lista-compras/precache-manifest.606566524f8b86accf83d3cb2ee7b946.js",
+  "precache-manifest.ce086a50af4c383808ecebeb30350d89.js": "/react-lista-compras/precache-manifest.ce086a50af4c383808ecebeb30350d89.js",
   "service-worker.js": "/react-lista-compras/service-worker.js"
 }
