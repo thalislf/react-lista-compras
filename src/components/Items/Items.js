@@ -12,6 +12,7 @@ class Items extends PureComponent {
     let empty = null;
 
     if (this.props.itm.length === 0) {
+      // verifica se o array de itens está vazio
       empty = <h4>Sua lista está vazia!</h4>;
     }
 
@@ -51,12 +52,14 @@ class Items extends PureComponent {
 }
 
 const mapStateToProps = state => {
+  // mapeia o array que está no store para props
   return {
     itm: state.items
   };
 };
 
 const mapDispatchToProps = dispatch => {
+  // mapeia funções do reducer para props
   return {
     onAddNewItem: () => dispatch({ type: actionTypes.NEW_ITEM }),
     onDeleteItem: id => dispatch({ type: actionTypes.DELETE_ITEM, itemId: id }),
